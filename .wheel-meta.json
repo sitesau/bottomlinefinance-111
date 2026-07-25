@@ -1,0 +1,18 @@
+{
+  "wheel_id": 135,
+  "structure": "umbrella",
+  "slug": "bottomlinefinance-111",
+  "project": "construction-loans-comparison-b-111",
+  "parent_t1_ref": "bottomlinefinance-002",
+  "node_role": "feeder",
+  "money_target": "bottomlinefinance.com.au",
+  "primary_kw": "construction loans comparison",
+  "intended_url": "https://sitesau.github.io/bottomlinefinance-111/",
+  "links": [
+    {
+      "target_url": "https://construction-loans-b-153.pages.dev/",
+      "anchor": "construction loans",
+      "rel": "follow"
+    }
+  ]
+}
